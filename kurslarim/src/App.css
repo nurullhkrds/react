@@ -1,0 +1,103 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Random{
+    width: 200px;
+    height: 80px;
+    background: forestgreen;
+    border-radius: 100px;
+    font-size: xx-large;
+    color: cornsilk;
+}
+
+
+.kurslarım{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: fantasy;
+    margin: 20px;
+    font-size: 40px;
+}
+
+.cardGenel{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 50px;
+}
+.paragraf{
+    font-family: ui-serif;
+    font-size: 18px;
+}
+
+
+.card{
+    border: dashed;
+    border-radius: 50px;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+    border-color: darkmagenta;
+    padding: 25px;
+}
+
+.baslık{
+    font-family: fantasy;
+    font-size: 25px;
+
+}
+.fiyat{
+    font-size: 25px;
+}
+.fiyat span{
+    font-family: fantasy;
+    font-size: xx-large;
+    color: crimson;
+}
+
+.sil{
+    background: darkviolet;
+    color: antiquewhite;
+    width: 150px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: auto;
+}
+
+.sonDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sonP{
+
+    font-family: cursive;
+    font-feature-settings: normal;
+    font-size: xxx-large;
+}
+.sonB{
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    font-size: xxx-large;
+    font-family: fantasy;
+    background: red;
+    color: beige;
+}
+.prev{
+    border: none;
+    background: white;
+    color: red;
+    font-size: 50px;
+}
+.next{
+    border: none;
+    background: white;
+    color: red;
+    font-size: 50px;
+}

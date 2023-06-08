@@ -1,0 +1,27 @@
+.App{
+  margin: 20px;
+  width: 100%;
+}
+.SearchDiv{
+  border: 1px solid pink;
+  padding: 10px;
+  border-radius: 5px;
+}
+.SearchDiv form{
+  display: flex;
+  flex-direction: column;
+}
+
+.imgDiv{
+  flex-wrap: wrap;
+
+}
+.imglistDiv{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  width: 100%;
+}
+.img{
+  margin: 5px;
+}
