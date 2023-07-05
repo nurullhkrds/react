@@ -1,0 +1,37 @@
+.menu{
+  display: flex;
+  justify-content: flex-end;
+
+}
+.diVV{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: self-end;
+}
+
+.iconQualitity{
+  position: relative;
+}
+
+.qualitity{
+  position: absolute;
+  bottom: 40px;
+  background: white;
+  color: black;
+  border-radius: 100px;
+  padding: 5px;
+}
+.labelTotal{
+  position: absolute;
+  left: 1230px;
+  top: 85px;
+
+}
+.label{
+  background-color: red;
+}
+.divSepet{
+  margin-top: 30px;
+  margin-left: 1100px;
+}

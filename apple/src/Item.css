@@ -1,0 +1,9 @@
+.divBtn{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
