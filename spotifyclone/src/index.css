@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+
+@layer base {
+    html,body, #root {
+      @apply h-full bg-backdrop text-white 
+    }
+    #root {
+      @apply flex flex-col
+  
+    }
+    .wrapper{
+      height: 580px;
+      
+      
+      @apply flex
+    }
+    .scrollable{
+      scroll-behavior: smooth;
+    }
+  
+  
+  }
