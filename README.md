@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <table >
   <tr  >
     <th  >Title</th>
@@ -21,7 +20,5 @@
 
  
 </table>
-=======
->>>>>>> d4fd2f52e152f2d70cd2bb2b028f1239e5a22da3
 
 
