@@ -1,17 +1,11 @@
 
-<!DOCTYPE html>
-<html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
 
 
 
 
-<table>
+
+
+<table style=" border:1px solid black;">
   <tr>
     <th>Title</th>
     <th>Desc</th>
@@ -31,6 +25,5 @@ table, th, td {
  
 </table>
 
-</body>
-</html>
+
 
