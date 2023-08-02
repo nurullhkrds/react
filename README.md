@@ -9,6 +9,7 @@
    <td>
    <h2>Api Project</h2>
    <img src="./image/api1.png" />
+   <img src="./image/api2.png">
    </td>
    <td>
    <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
