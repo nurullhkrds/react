@@ -8,8 +8,8 @@
 <tr >
    <td>
    <h2>Api Project</h2>
-   <img height="100px" width="100px" src="./image/api1.png" />
-   <img height="100px" width="100px" src="./image/api2.png">
+   <img height="100px" width="150px" src="./image/api1.png" />
+   
    </td>
    <td>
    <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
