@@ -1,11 +1,11 @@
-<table style=" border:1px solid black;">
-  <tr style=" border:1px solid black;" >
-    <th style=" border:1px solid black;" >Title</th>
-    <th style=" border:1px solid black;">Desc</th>
+<table >
+  <tr  >
+    <th  >Title</th>
+    <th >Desc</th>
   </tr>
 
-<tr style=" border:1px solid black;">
-    <td style=" border:1px solid black;">
+<tr >
+    <td >
        <h2>ApiProject</h2>
         <a href="https://github.com/nurullhkrds/react/tree/main/api" > click here </a>
     </td>
