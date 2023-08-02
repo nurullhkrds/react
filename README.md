@@ -1,3 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+
+
+
 <table>
   <tr>
     <th>Title</th>
@@ -18,5 +31,6 @@
  
 </table>
 
-
+</body>
+</html>
 
