@@ -28,7 +28,8 @@
    
    </td>
    <td>
-   <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
+   <p>It was a project where I consolidated state management in the best way using the react-redux toolkit.
+   I could see how powerful Redux is, especially when it comes to managing functions and variables with a single component.</p>
    <a href="https://github.com/nurullhkrds/react/tree/main/apple" >click here </a>
    </td>
 
@@ -45,7 +46,7 @@
    
    </td>
    <td>
-   <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
+   <p>I actively used the React-Router-Dom logic exactly in this project.</p>
    <a href="https://github.com/nurullhkrds/react/tree/main/hamburger" >click here </a>
    </td>
 
@@ -62,7 +63,8 @@
    
    </td>
    <td>
-   <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
+   <p>With this project, I reinforced how to pull data from the backend with the Axios library.
+   In addition, I actively implemented props communication between components for adding, deleting and updating operations.</p>
    <a href="https://github.com/nurullhkrds/react/tree/main/contextApi" >click here </a>
    </td>
 
@@ -79,7 +81,11 @@
    
    </td>
    <td>
-   <p>With this project, I reinforced how to pull data from the backend with the Axios library.</p>
+   <p>I would like to share the spotify clone project I made with React and Tailwind Css technologies.
+By actively using components-props transitions and react-hooks in the project, a lot about the relationship between hooks and components
+It was a project I was practicing.
+I implemented state management using redux-toolkit and transitioned between react-router and components.
+I got help from music functions with useAudio, useFullScren and React-range components in React use.</p>
    <a href="https://github.com/nurullhkrds/react/tree/main/spotifyclone" >click here </a>
    </td>
 
