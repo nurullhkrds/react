@@ -14,7 +14,7 @@ I often used accessory transitions and function transitions between components.
 I actively used functions such as "find,map,filter,foreach" which can be considered important in Javascript.
 I used useEffect which is responsible for lifecycle which is of special importance for React. </p>
 
-
+<h3>Images</h3>
 <div>
          <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/2.png" />
       <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/3.png" />
