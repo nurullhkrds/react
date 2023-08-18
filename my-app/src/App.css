@@ -1,0 +1,44 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h2{
+  color: cornflowerblue;
+    font-size: 50px;
+}
+.formDiv{
+  margin-left: 80px;
+}
+.footer{
+  width: 100%;
+    display: flex;
+    justify-content: inherit;
+    background: cadetblue;
+    margin-top: 10px;
+}
+
+
+
+.ContentClass{
+  width: 500px;
+
+  display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    justify-content: center;
+    background: beige;}
+
+
+    .btnOpenTodoList{
+      width: 35px;
+      height: 25px;
+      margin: 12px;
+   
+    }
+   
+    
+ 
+  
+
