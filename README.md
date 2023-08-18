@@ -13,10 +13,9 @@
       <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/3.png" />
       <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/4.png" />
       <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/5.png" />
-      <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/6.png" />
-       
-       
-       </div>
+      <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/6.png" />     
+      
+ </div>
      
 
 
