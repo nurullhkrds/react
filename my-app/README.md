@@ -3,7 +3,7 @@
   <li>Html</li>
    <li>Css</li>
   <li>Javascript</li>
-  <li>React Icons</li>
+  <li> React Icons</li>
   <li>React</li>
 
 </ul>
