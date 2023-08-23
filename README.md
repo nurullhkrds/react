@@ -6,7 +6,15 @@
 
 <tr >
    <td>
-   <h2>ToDo Project</h2>
+   <h2 >ToDo Project</h2>
+       <div  style="display:flex;" >     
+        <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/1.png" />
+
+      
+ </div>
+     
+
+
    
    </td>
    <td>
