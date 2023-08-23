@@ -1,0 +1,42 @@
+:root{
+    
+--section-overlay:rgba(0,0,0,0.7);
+--background-overlay:rgba(0,0,0,0.6);
+   
+}
+.App{
+    background-image: url(./assets/coldd.jpg) ;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.lineOut{
+  
+}
+
+
+
+  .overlay{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--background-overlay);
+  }
+
+  .location{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+    background-color: var(--background-overlay);
+    background-size: auto;
+    color: beige;
+
+  }
+  
+
+
+
+
+

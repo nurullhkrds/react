@@ -1,0 +1,27 @@
+.footer-mylink{
+    display: flex;
+    align-items: center;
+}
+
+.footer-imgdiv{
+    height: 50px;
+    width: 50px;
+}
+.footer-mylink img{
+    width: 100%;
+    height: 100%;
+    border-radius: 150px;
+
+}
+.footer-btn{
+    display: flex;
+    align-items: center;
+    background-color: var(--background-overlay);
+    border: none;
+    border-radius: 50px;
+}
+
+.iconGit{
+    height: 35px;
+    width: 50px;
+}

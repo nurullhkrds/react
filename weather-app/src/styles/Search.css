@@ -1,0 +1,11 @@
+.footer{
+    background-color: var(--background-overlay);
+    display: flex;
+    justify-content:space-between;
+
+}
+.section input{
+    border-radius: 35px;
+    border: none;
+    padding: 15px;
+}

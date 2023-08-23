@@ -1,0 +1,17 @@
+
+.main button{
+    width: 90px;
+    background-color: darkgray;    
+}
+
+.child{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.imgdiv img{
+    width: 45px;
+
+}
