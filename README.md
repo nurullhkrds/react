@@ -123,7 +123,7 @@
   </tr>
   <tr >
    <td>
-   <h2>SpotifyClone Project</h2>
+   <h2>SpotifyClone Project </h2>
    <img height="100px" width="150px" src="./image/spotifyclone.png" />
    
    </td>
