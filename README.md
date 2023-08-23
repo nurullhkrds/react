@@ -5,10 +5,6 @@
 
 
 
-    <tr  >
-    <th  >Title</th>
-    <th >Desc</th>
-  </tr>
 
 <tr >
    <td>
