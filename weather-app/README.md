@@ -20,9 +20,11 @@ I used the api of https://weather.visualcrossing.com. I actively provided a dyna
   <li>visualcrossing API</li>
    <li>React Icon</li>
 </ul>
+<div>
+  <h3>Images</h3>
   <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/w1.png" />
    <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/w2.png" />
 
    <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/w3.png" />
-
+</div>
 </div>
