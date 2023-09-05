@@ -1,0 +1,15 @@
+#content{
+  padding: 15px;
+}
+
+.image-gallery{
+  width: 500px;
+}
+
+.boxCard{
+  display: flex;
+  align-items: center;
+}
+.secondBox{
+  margin-left: 15px;
+}

@@ -1,0 +1,26 @@
+.admin-menu{
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.admin-menu li{
+    padding: 0 10px;
+
+}
+.navAdmin{
+    background-color: currentColor;
+
+}
+.navAdmin li{
+    color: antiquewhite;
+}
+
+.navAdmin a.active{
+    
+    background-color: lightslategray;
+    font-size: x-large;
+    border-radius: 30px;
+    padding: 3px;
+
+}
