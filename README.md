@@ -1,8 +1,31 @@
-<table >
-    <tr  >
-    <th  >Title</th>
-    <th >Desc</th>
-  </tr>
+
+
+
+<table>
+
+
+
+
+<tr >
+   <td>
+   <h2 >weather-app</h2>
+       <div  style="display:flex;" >     
+        <img height="100px" width="150px" src="https://github.com/nurullhkrds/react/blob/main/image/w1.png" />
+
+      
+ </div>
+     
+   </td>
+   <td>
+   <p>The project reflects the 8-day weather. It gives information about temperature, pressure, humidity and felt temperature.</p>
+   <a href="https://github.com/nurullhkrds/react/tree/main/weather-app" >click here </a>
+   </td>
+
+</tr>
+<br>
+
+
+ 
 
 <tr >
    <td>
@@ -13,9 +36,6 @@
       
  </div>
      
-
-
-   
    </td>
    <td>
    <p>We can create a to-do list. We can mark the notes we have received and assign them to the done ones. We can then delete what has been done. All that remains is what is active, that is, what needs to be done.</p>
@@ -101,7 +121,7 @@
   </tr>
   <tr >
    <td>
-   <h2>SpotifyClone Project</h2>
+   <h2>SpotifyClone Project </h2>
    <img height="100px" width="150px" src="./image/spotifyclone.png" />
    
    </td>
