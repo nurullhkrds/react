@@ -1,0 +1,32 @@
+.itemNote{
+      width: 250px;
+    height: 250px;
+    background: slategray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+ 
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.deleteIcon{
+  cursor: pointer;
+}
+
+.editIcon{
+  cursor: pointer;
+}
+
+
+.deleteIcon:hover{
+  cursor: pointer;
+  width: 35px;
+  height: 30px;
+}
+
+.editIcon:hover{
+  cursor: pointer;
+  width: 35px;
+  height: 30px;
+}
