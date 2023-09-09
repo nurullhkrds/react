@@ -9,9 +9,7 @@
 </ul>
 <h3>About the project...</h3>
 <p>
-  I actively used the above technologies in creating an e-commerce site that
-  includes both admin and user roles. Admin cannot add, update or delete
-  products. He can also see orders. However, the User can only place orders.
+  I used the redux-toolkit technology to manage the current state and with the redux-toolkit, I handled the active adding, deleting and updating jobs.
 </p>
 
 <div>
