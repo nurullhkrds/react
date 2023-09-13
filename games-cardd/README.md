@@ -1,7 +1,7 @@
 # Memory-Games
 
 <div>
-    DEMO: <a href='https://capable-kleicha-8c41a6.netlify.app/' target='_blank' >nurullhkardas/memory-games</a>
+    DEMO: <a href='https://capable-kleicha-8c41a6.netlify.app/' target='_blank' > nurullhkardas/memory-games</a>
 </div>
 
 <h2>Used technologies</h2>
