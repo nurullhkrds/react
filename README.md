@@ -11,7 +11,7 @@
       </div>
     </td>
     <td>
-      <p>The function and state management of the Redux-toolkit library was actively used and communication between other components was observed.</p>
+      <p>The function and state management of the Redux-toolkit library was actively used and communication between other components was observed. </p>
       <a href="https://github.com/nurullhkrds/react/tree/main/games-cardd"
         >click here
       </a>
