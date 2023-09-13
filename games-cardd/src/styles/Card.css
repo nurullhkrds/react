@@ -1,0 +1,11 @@
+.openCardClass{
+    cursor: pointer;
+}
+.divImg{
+    border-radius: 50px;
+}
+.divImg img{
+    border-radius: 15px;
+    width: 120px ;
+    height: 120px;
+}

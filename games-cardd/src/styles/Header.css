@@ -1,0 +1,26 @@
+.header{
+    background: beige;
+    width: 850px;
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.totalDiv{
+    font-size: xx-large;
+    font-family: monospace;
+}
+.btnrestart{
+    border: none;
+    background: indianred;
+    border-radius: 50px;
+    color: green;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.btnrestart:hover{
+    color:white;
+    border: 1px solid grey;
+    
+}
