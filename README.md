@@ -1,5 +1,4 @@
 <table>
-
   <tr>
     <td>
       <h2>Memor-Games</h2>
@@ -12,17 +11,14 @@
       </div>
     </td>
     <td>
-      <p>
-        active memory game using react-redux toolkit
-      </p>
-      <a
-        href="https://github.com/nurullhkrds/react/tree/main/games-cardd"
+      <p>active memory game using react-redux toolkit</p>
+      <a href="https://github.com/nurullhkrds/react/tree/main/games-cardd"
         >click here
       </a>
     </td>
   </tr>
 
-    <tr>
+  <tr>
     <td>
       <h2>To Do Redux</h2>
       <div style="display: flex">
@@ -37,8 +33,7 @@
       <p>
         I added, deleted, updated and searched for assets using Redux-Toolkit.
       </p>
-      <a
-        href="https://github.com/nurullhkrds/react/tree/main/todo-with-redux"
+      <a href="https://github.com/nurullhkrds/react/tree/main/todo-with-redux"
         >click here
       </a>
     </td>
