@@ -22,9 +22,6 @@
     </td>
   </tr>
 
-
-
-    
     <tr>
     <td>
       <h2>To Do Redux</h2>
