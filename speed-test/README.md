@@ -24,7 +24,7 @@
 
 
 
-<h1>Watch the video</h1>
+<h1>Watch the video...</h1>
 
 
 </div>
