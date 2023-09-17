@@ -25,15 +25,11 @@
 
 
 <h1>Watch the video</h1>
-<video width="320" height="240" controls="controls">
-
-  <source src="buff.mp4" type="audio/mp4">
-
-  <source src="buff.ogg" type="audio/ogg">
-
-</video>
 
 
-
- 
 </div>
+
+
+https://github.com/nurullhkrds/react/assets/115217234/f5c728e7-13a3-4128-8cd2-1c405ad1dc01
+
+
