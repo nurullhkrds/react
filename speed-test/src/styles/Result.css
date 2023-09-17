@@ -1,0 +1,30 @@
+.mainResult{
+    background-color: bisque;
+    width: 320px;
+    display: flex;
+    border-radius: 25px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.divH{
+    width: 150px;
+    color: crimson;
+}
+.divContent{
+    padding: 15px;
+    background-color: beige;
+    border-radius: 15px;
+}
+.btnR{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    border:none;
+    background-color: lightskyblue;
+    color: currentColor;
+    font-size: 20px;
+    border-radius: 25px;
+    
+}

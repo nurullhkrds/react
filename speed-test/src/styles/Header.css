@@ -1,0 +1,17 @@
+.header{
+    background-color: cadetblue;
+    color: azure;
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.divTr{
+    margin-right: 60px;
+    cursor: pointer;
+    width: 35px;
+}
+.divEn{
+    cursor: pointer;
+    width: 35px;
+}
