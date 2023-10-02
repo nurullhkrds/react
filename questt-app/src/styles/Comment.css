@@ -1,0 +1,10 @@
+.CommentDiv{
+    height: 150px;
+    overflow: auto;
+}
+
+.commentRow{
+    height: 45px;
+    width: 300px;
+    margin-bottom: 2px;
+}

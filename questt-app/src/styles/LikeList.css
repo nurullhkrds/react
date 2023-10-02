@@ -1,0 +1,13 @@
+.divLikesList{
+    height: 60px;
+    overflow: auto;
+}
+.divTextAndAvatar{
+    background-color: lavender;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 10px;
+    padding: 5px;
+  
+}

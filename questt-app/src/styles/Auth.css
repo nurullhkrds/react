@@ -1,0 +1,11 @@
+.divLogin{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid;
+    width: 500px;
+    border-radius: 15px;
+    background:whitesmoke;
+    margin-bottom: 15px;
+    
+}
