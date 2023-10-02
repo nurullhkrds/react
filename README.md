@@ -6,7 +6,7 @@
         <img
           height="100px"
           width="150px"
-          src="https://github.com/nurullhkrds/react/blob/main/image/a1.png"
+          src="https://github.com/nurullhkrds/react/blob/main/image/chat1.png"
         />
       </div>
     </td>
