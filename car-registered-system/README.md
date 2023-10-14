@@ -36,6 +36,17 @@ Hello, in this project I frequently communicated between React components. I tho
 </div>
 
 
+<h3>Part 1</h3>
+https://github.com/nurullhkrds/react/assets/115217234/48d79f05-349c-40e5-b2ca-5c728ca3309a
+
+
+<h3>Part 2</h3>
+https://github.com/nurullhkrds/react/assets/115217234/a8e122c9-ba2c-49ea-95fe-29f8a54c7352
+
+
+
+
+
 
 
 
